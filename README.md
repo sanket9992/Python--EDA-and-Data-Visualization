@@ -11,8 +11,11 @@ This project involves a comprehensive analysis of Airbnb bookings data using Pyt
 
 ## FINDINGS AND CONCLUSIONS ##
 • Property Distribution: The dataset features a wide range of property types and room types, with entire homes being the most preferred by users.
+
 • Pricing Insights: Analysis of pricing trends reveals significant variation across cities and property types, with higher prices in central and tourist-heavy areas.
+
 • Geographical Trends: Top cities like New York and London dominate in listing volume, while availability and review scores vary notably by region.
+
 • Listing Categorization: Categorizing listings by features such as minimum nights, room type, and cancellation policy reveals user and host behavior patterns.
 
 
