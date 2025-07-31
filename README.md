@@ -5,8 +5,11 @@ This project involves a comprehensive analysis of Airbnb bookings data using Pyt
 
 ## OBJECTIVES ##
 • Analyze the distribution of booking types, property types, and locations 
+
 • Identify pricing patterns across different cities, seasons, and property types
+
 • List and analyze bookings based on availability, review scores, and host activities
+
 • Explore and categorize listings using specific criteria such as minimum nights, room type, and cancellation policy
 
 ## FINDINGS AND CONCLUSIONS ##
